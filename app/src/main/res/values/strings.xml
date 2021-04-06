@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoAttendee</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
